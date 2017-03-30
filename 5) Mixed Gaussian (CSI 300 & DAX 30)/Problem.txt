@@ -1,0 +1,5 @@
+
+Calibrate Mixed Gaussian for CSI 300 index and DAX 30 index.
+
+Calculate CVaR and VaR at 95%, 99% and 99.9% confidence level from historical data
+Note: Set sigma 2=0.8% for both cases.

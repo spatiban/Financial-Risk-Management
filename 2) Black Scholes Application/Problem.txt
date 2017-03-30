@@ -1,0 +1,28 @@
+1) Black Formula Application:
+
+Spot price S&P 500=2328.25
+
+K=ATM
+
+T=3 Months
+
+sigma (volatility) (Annualized)=8.6%
+
+r (Annualized)=1.04%
+
+d (Annualized)=1.96%
+
+ 
+2) Reverse Black formula Application:
+
+Call option price=43.2
+
+Spot price S&P 500=2328.25
+
+K=ATM
+
+T=3 Months
+
+r (Annualized)=1.04%
+
+d (Annualized)=1.96%

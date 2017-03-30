@@ -1,0 +1,1 @@
+Calculate term structures statistics for CSI 300 index and CAC 40 index
